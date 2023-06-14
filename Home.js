@@ -122,8 +122,10 @@ import BouncyCheckbox from 'react-native-bouncy-checkbox';
                 <Text style={styles.modalText}>Add New Task</Text>
               </View>
               <TextInput
+              placeholder="Type here..."
+              placeholderTextColor='grey'
                 style={styles.input}
-                placeholder="Type here..."
+                
                 onChangeText={text => setonChangeText(text)}
                 value={text}
               />
