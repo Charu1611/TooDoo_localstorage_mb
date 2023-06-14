@@ -24,7 +24,7 @@ function MyTabs() {
         tabBarIcon: () => null,
       }}>
       <Tab.Screen name="Homes" component={Home} options={{ headerShown: false }} />
-      <Tab.Screen name="Screen" component={Screen} options={{ headerShown: false }} />
+      <Tab.Screen name="Calendar" component={Screen} options={{ headerShown: false }} />
       
     </Tab.Navigator>
   );
