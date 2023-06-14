@@ -24,7 +24,7 @@ export default function App() {
       <Text style={styles.headText}>
         Let's get started {'\n'}with{' '}
         <Text style={{color: '#F2BE22'}}>
-          <TypeWriter fixed={true} typing={0.3}>
+          <TypeWriter fixed={true} typing={1}>
             To-Doo
           </TypeWriter>
         </Text>{' '}

@@ -19,6 +19,7 @@
     "react": "18.2.0",
     "react-calendly": "^4.1.1",
     "react-native": "0.71.10",
+    "react-native-bouncy-checkbox": "^3.0.7",
     "react-native-calendars": "^1.1298.0",
     "react-native-fast-image": "^8.6.3",
     "react-native-gesture-handler": "^2.3.1",

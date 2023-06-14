@@ -16,7 +16,7 @@ export default function Intro() {
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
      
       <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
-        <TypeWriter typing={0.5}>
+        <TypeWriter typing={1}>
         <Text style={{fontSize: 50, fontStyle: 'italic', fontWeight: 'bold'}}>
         <Text style={{color: 'rgb(74,89,100)'}}>Too</Text>
         <Text style={{color: '#F2BE22'}}>Doo</Text>
